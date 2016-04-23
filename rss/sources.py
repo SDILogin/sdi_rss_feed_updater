@@ -8,4 +8,19 @@ rss_feeds = [
         'title': 'Android Developers Blog',
         'url' : 'https://feeds.feedburner.com/blogspot/hsDu'
     },
+
+    {
+        'title': 'Java67',
+        'url' : 'https://feeds.feedburner.com/Java67'
+    },
+
+    {
+        'title': 'Android Architecture (Fernando Cejas)',
+        'url' : 'http://fernandocejas.com/feed/'
+    },
+
+    {
+        'title': 'AppTractor',
+        'url' : 'http://apptractor.ru/feed'
+    },
 ]
