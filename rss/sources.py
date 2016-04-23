@@ -28,4 +28,9 @@ rss_feeds = [
         'title': 'Dan Lew Codes',
         'url' : 'http://blog.danlew.net/rss/'
     },
+
+    {
+        'title': 'Feedpresso',
+        'url' : 'http://blog.feedpresso.com/feed.xml'
+    },
 ]
