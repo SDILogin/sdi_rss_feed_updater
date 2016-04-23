@@ -23,4 +23,9 @@ rss_feeds = [
         'title': 'AppTractor',
         'url' : 'http://apptractor.ru/feed'
     },
+
+    {
+        'title': 'Dan Lew Codes',
+        'url' : 'http://blog.danlew.net/rss/'
+    },
 ]
