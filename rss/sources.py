@@ -33,4 +33,10 @@ rss_feeds = [
         'title': 'Feedpresso',
         'url' : 'http://blog.feedpresso.com/feed.xml'
     },
+
+    {
+        'title': 'AndroidDev (Habr)',
+        'url' : 'https://habrahabr.ru/rss/hub/android_dev/'
+    },
 ]
+
