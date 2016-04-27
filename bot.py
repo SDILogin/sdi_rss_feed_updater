@@ -8,6 +8,8 @@ def send_updates(updates):
     # update channel
     for update in updates:
         author, entries = list(update.items())[0]
+        if not entries:
+            continue
 
         # configure message
         message = ""
