@@ -1,6 +1,9 @@
 # sensitive data
 config.py
 
+#db
+last_update
+
 # idea
 .idea
 
