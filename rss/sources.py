@@ -1,3 +1,11 @@
+import local_file_storage_manager
+
+
+def configure_rss_feeds_for_local_storage():
+    channels = local_file_storage_manager.get_channels()
+    return [(channel, local_file_storage_manager.read_feeds_from_file(channel)) for channel in channels]
+
+
 rss_feeds = [
     {
         'title': 'Android Weekly',
