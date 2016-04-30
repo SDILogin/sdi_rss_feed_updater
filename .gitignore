@@ -1,5 +1,6 @@
 # sensitive data
 config.py
+data
 
 #db
 last_update
